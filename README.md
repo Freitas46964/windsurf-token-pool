@@ -99,3 +99,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: windsurf-token-pool, token, abuse, rotation, multi, endless, ai-tools, ide, windsurf, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+windsurf token abuse rotation multi endless ai-tools ide windsurf-token-pool ws-rotation-tool windsurf-token-abuse windows portable prebuilt x64 free download
+related: windsurf, token, abuse, rotation, multi, endless, ai-tools, ide
